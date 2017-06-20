@@ -1,0 +1,23 @@
+/*************NAVBAR ******************/
+
+.navbar-brand{
+	background-color: rgb(74,170,165);
+	color: #fff;
+	line-height: 0;
+	font-size: 32px;
+	padding:40px;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{
+	background-color: rgb(74,170,165)
+}
+
+.navbar-default .navbar-brand{
+	color:#fff;
+}
+
+.navbar-right{
+	margin-top: 15px;
+}
+
+/*******************************************/
