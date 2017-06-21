@@ -1,5 +1,6 @@
 body{
 	padding-top:100px;
+    background: #ccc;
 }
 /*************NAVBAR ******************/
 
@@ -43,8 +44,8 @@ body{
 }
 
 .image {
-    margin-right: 15px;
-  /*  float: left;*/
+    margin-right: 15px;*/
+    float: left;
     height: 150px;
     width: 200px;
 }
