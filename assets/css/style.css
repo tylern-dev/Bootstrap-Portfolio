@@ -26,6 +26,8 @@ body{
 
 /*******************************************/
 
+/*Main Content Section*/
+
 .left-content{
     padding: 40px 30px 40px 30px;
     border: 1px solid rgb(74,170,165);
@@ -44,8 +46,30 @@ body{
 }
 
 .image {
-    margin-right: 15px;*/
-    float: left;
+    margin-right:10px;
     height: 150px;
     width: 200px;
 }
+
+/*********************/
+
+/*SIDEBAR SECTION*/
+.connect-heading{
+    color: rgb(74,170,165);
+    font-size: 24px;
+    border-bottom: 3px solid rgb(74,170,165);
+    margin-bottom: 20px;
+}
+.connect-image{
+    height: 50px;
+    width: 50px;
+}
+.right-content{
+    padding:40px 30px;
+    border: 1px solid rgb(74,170,165);
+    background-color:#fff;
+}
+
+
+
+
